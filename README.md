@@ -1,6 +1,5 @@
 # Introduction to Modern AI — Coding Black Females
 
-**Brand:** `#3b3b3b` (charcoal) + `#d69e1d` (gold)  
 **Format:** 6 Modules
 **Audience:** Beginners, no coding/math background  
 **Motto:** _Start small. Experiment daily. AI is better with friends._
