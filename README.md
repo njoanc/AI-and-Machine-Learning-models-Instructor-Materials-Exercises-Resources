@@ -1,6 +1,7 @@
 # Introduction to Modern AI — Coding Black Females
 
 **Format:** 6 Modules
+
 **Audience:** Beginners, no coding/math background  
 **Motto:** _Start small. Experiment daily. AI is better with friends._
 
