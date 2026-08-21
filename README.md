@@ -29,8 +29,8 @@ Live decks are in Google Slides (not in this repo).
 This repo contains **only 3 files**:
 
 1. `README.md` — This file
-2. `Instructor-Guide-Module1-Overview.md` — Main Instructor Guide: run sheet, timing, learning objectives, 3-Slide Pulse Check method, setup checklist, Module 2-6 template
-3. `Practices-Guide-Module1-Overview.md` — Topic-by-Topic Practice Guide: exact scripts, demos, participant practice, debrief questions, 🟢🟡🔴 decision trees for Day 1 & Day 2
+2. `Instructor-Guide-Module-Overview.md` — Main Instructor Guide: run sheet, timing, learning objectives, 3-Slide Pulse Check method, setup checklist, Module 2-6 template
+3. `Practices-Guide-Module-Overview.md` — Topic-by-Topic Practice Guide: exact scripts, demos, participant practice, debrief questions, 🟢🟡🔴 decision trees for Day 1 & Day 2
 
 > The Practices Guide is the companion to the Instructor Guide. Main Guide = clock. Practices Guide = playbook.
 
